@@ -1,4 +1,8 @@
-# GIT
+# Aplicación de notas
+
+![Captura](Captura.png)
+
+
 
 ## Pasos
 
@@ -23,4 +27,22 @@ III. Agrego los archivos
 IV. Creo el commit 
 ``` bash
     git commit -m "Nombre de los cambios"
+``` 
+V. Vínculamos el repositorio remoto con el local
+``` bash
+ git remote add origin https://github.com/jonathancruzdev/ejemplo.git
+ ```
+
+VI. Subir lo cambios (commits)
+``` bash
+    git push origin master
+```
+
+## Para crear ramas
+``` bash
+    git branch nombre
+``` 
+## Para cambiarme rama
+``` bash
+    git checkout nombre
 ``` 
