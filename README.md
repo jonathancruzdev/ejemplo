@@ -8,7 +8,7 @@ I. Creo un repositorio
     git init
 ```
 
-II. Configurar el usaurio y email
+II. Configurar el usuario y email
 ``` bash
     git config user.name "Jonathan Cruz"
     git config user.mail "joanthan.cruz@davinci.edu.ar"
