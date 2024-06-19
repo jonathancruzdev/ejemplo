@@ -2,6 +2,10 @@
     background-color: black;
 }
 
+.dark .list-group {
+    border: 1px solid snow;
+}
+
 .dark .list-group li{
     background-color: rgb(31, 31, 31);
     color: whitesmoke;
