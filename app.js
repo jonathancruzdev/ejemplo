@@ -2,7 +2,7 @@
 const inputNota = document.querySelector('#nota');
 const form = document.querySelector('form');
 const listaNotas = document.querySelector('#notas');
-
+console.log('Cambio importante')
 let notas = [];
 // Funcion 1 - Leer los inputs y los pushea en array contactos
 form.addEventListener('submit', (e) => {
