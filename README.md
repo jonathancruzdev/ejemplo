@@ -20,3 +20,7 @@ III. Agrego los archivos
     git add .
 ``` 
 
+IV. Creo el commit 
+``` bash
+    git commit -m "Nombre de los cambios"
+``` 
